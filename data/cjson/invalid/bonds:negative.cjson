@@ -1,0 +1,21 @@
+{
+  "chemicalJson": 1,
+  "name": "bonds.order is negative",
+  "atoms": {
+    "coords": {
+      "3d": [
+        0.0, 0.0, 0.0,
+        1.4, 0.0, 0.0
+      ]
+    },
+    "elements": {
+      "number": [7, 7]
+    }
+  },
+  "bonds": {
+    "connections": {
+      "index": [0, 1]
+    },
+    "order": [-3]
+  }
+}
