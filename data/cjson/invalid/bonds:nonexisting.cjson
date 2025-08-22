@@ -3,7 +3,9 @@
   "name": "bond.connections.index points nonexisting atom",
   "atoms": {
     "coords": {
-      "3d": [0.0, 0.0, 0.0]
+      "3d": [
+        0.0, 0.0, 0.0
+      ]
     },
     "elements": {
       "number": [7]

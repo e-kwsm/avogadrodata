@@ -1,9 +1,11 @@
 {
   "chemicalJson": 1,
-  "name": "self bond",
+  "name": "bonds.connections.index indicates self-bonding",
   "atoms": {
     "coords": {
-      "3d": [0.0, 0.0, 0.0]
+      "3d": [
+        0.0, 0.0, 0.0
+      ]
     },
     "elements": {
       "number": [7]
