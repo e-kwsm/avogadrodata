@@ -1,0 +1,17 @@
+{
+  "chemical json": 1,
+  "name": "violation: totalSpinMultiplicity is zero",
+  "atoms": {
+    "elements": {
+      "number": [2]
+    },
+    "coords": {
+      "3d": [
+        0.0, 0.0, 0.0
+      ]
+    }
+  },
+  "properties": {
+    "totalSpinMultiplicity": 0
+  }
+}
