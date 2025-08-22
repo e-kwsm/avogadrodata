@@ -12,6 +12,7 @@
     }
   },
   "properties": {
+    "spinMultiplicity": 0,
     "totalSpinMultiplicity": 0
   }
 }
