@@ -1,0 +1,17 @@
+{
+  "chemicalJson": 1,
+  "name": "anion or radical?",
+  "atoms": {
+    "elements": {
+      "number": [17]
+    },
+    "coords": {
+      "3d": [0.0, 0.0, 0.0]
+    },
+    "formalCharges": [-1]
+  },
+  "properties": {
+    "totalCharge": 0,
+    "totalSpinMultiplicity": 2
+  }
+}
