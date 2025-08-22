@@ -1,0 +1,15 @@
+{
+  "chemical json": 1,
+  "name": "extra coords.3d entries",
+  "atoms": {
+    "elements": {
+      "number": [0]
+    },
+    "coords": {
+      "3d": [
+        0.0, 0.0, 0.0,
+        1.0
+      ]
+    }
+  }
+}
