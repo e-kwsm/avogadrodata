@@ -1,0 +1,33 @@
+{
+  "chemicalJson": 1,
+  "name": "unitCell: lattice parameters and cellVectors (primitive) mismatch",
+  "atoms": {
+    "coords": {
+      "3dFractional": [
+        0.00, 0.00, 0.00,
+        0.25, 0.25, 0.25
+      ]
+    },
+    "elements": {
+      "number": [
+        14,
+        14
+      ]
+    }
+  },
+  "unitCell": {
+    "a": 5.4,
+    "b": 5.4,
+    "c": 5.4,
+    "alpha": 90.0,
+    "beta": 90.0,
+    "gamma": 90.0,
+    "cellVectors": [
+      0.0, 2.7, 2.7,
+      2.7, 0.0, 2.7,
+      2.7, 2.7, 0.0
+    ],
+    "hallNumber": 525,
+    "spaceGroup": "F d -3 m"
+  }
+}
