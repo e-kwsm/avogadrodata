@@ -1,0 +1,14 @@
+{
+  "chemical json": 1,
+  "name": "\"He\" but not 2",
+  "atoms": {
+    "elements": {
+      "number": ["He"]
+    },
+    "coords": {
+      "3d": [
+        0.0, 0.0, 0.0
+      ]
+    }
+  }
+}
