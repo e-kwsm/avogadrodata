@@ -1,6 +1,6 @@
 {
   "chemicalJson": 1,
-  "name": "unitCell: lattice parameters and cellVectors (primitive) mismatch",
+  "name": "unitCell: lattice parameters (conventional) and cellVectors (primitive) mismatch",
   "atoms": {
     "coords": {
       "3dFractional": [
