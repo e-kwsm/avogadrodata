@@ -1,0 +1,6 @@
+# "f" at the fifth column means the atom is fixed
+$coord
+-2.0  0.0  0.0  h
+ 0.0  0.0  0.0  c f
+ 2.0  0.0  0.0  n
+$end
