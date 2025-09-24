@@ -1,3 +1,6 @@
 $periodic 1
 $cell
-  5.0
+  3.0
+$coord
+  0.0    0.0   0.0   h
+$end

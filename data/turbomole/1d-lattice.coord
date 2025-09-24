@@ -1,3 +1,6 @@
 $periodic 1
 $lattice
-  5.0
+  3.0
+$coord
+  0.0    0.0   0.0   h
+$end
